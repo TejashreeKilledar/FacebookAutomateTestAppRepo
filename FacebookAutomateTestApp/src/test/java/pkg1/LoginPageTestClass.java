@@ -96,6 +96,8 @@ public void OpenBrowser(String browserName)
 	public void closeBrowser()
 	{
 		System.out.println("after method...");
+		System.out.println("after method...");
+		System.out.println("after method...");
 		driver.close();
 	}
 	/*@AfterClass
