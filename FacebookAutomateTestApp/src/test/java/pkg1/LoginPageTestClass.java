@@ -105,5 +105,8 @@ public void OpenBrowser(String browserName)
 	public void aftercloseallTab()
 	{
 		System.out.println("After test...");
+		System.out.println("After test...");
+		System.out.println("After test...");
+		System.out.println("After test...");
 	}
 }
