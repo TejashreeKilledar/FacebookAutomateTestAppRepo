@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-07T11:55:16 IST" name="Suite" finished-at="2023-02-07T11:57:07 IST" duration-ms="110920">
+    <groups>
+    </groups>
+    <test started-at="2023-02-07T11:55:16 IST" name="ChromeTest" finished-at="2023-02-07T11:56:08 IST" duration-ms="52322">
+      <class name="pkg1.TestNgTestClass">
+        <test-method is-config="true" signature="OpenBrowser(java.lang.String)[pri:0, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:55:21 IST" name="OpenBrowser" finished-at="2023-02-07T11:55:22 IST" duration-ms="1362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="openSignUp()[pri:0, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:55:22 IST" name="openSignUp" finished-at="2023-02-07T11:55:25 IST" duration-ms="3090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSignUp -->
+        <test-method signature="signupPage()[pri:1, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:55:25 IST" name="signupPage" finished-at="2023-02-07T11:55:35 IST" duration-ms="10384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupPage -->
+        <test-method is-config="true" signature="closeCurrentTab()[pri:0, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:55:35 IST" name="closeCurrentTab" finished-at="2023-02-07T11:55:36 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentTab -->
+        <test-method is-config="true" signature="openSignUp()[pri:0, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:55:36 IST" name="openSignUp" finished-at="2023-02-07T11:55:37 IST" duration-ms="1077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSignUp -->
+        <test-method signature="privacyPolicy()[pri:2, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:55:37 IST" name="privacyPolicy" finished-at="2023-02-07T11:55:53 IST" duration-ms="16399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- privacyPolicy -->
+        <test-method is-config="true" signature="closeCurrentTab()[pri:0, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:55:53 IST" name="closeCurrentTab" finished-at="2023-02-07T11:55:53 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentTab -->
+        <test-method is-config="true" signature="openSignUp()[pri:0, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:55:53 IST" name="openSignUp" finished-at="2023-02-07T11:55:54 IST" duration-ms="978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSignUp -->
+        <test-method signature="cookiesPolcy()[pri:3, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:55:54 IST" name="cookiesPolcy" finished-at="2023-02-07T11:56:08 IST" duration-ms="13530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesPolcy -->
+        <test-method is-config="true" signature="closeCurrentTab()[pri:0, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:56:08 IST" name="closeCurrentTab" finished-at="2023-02-07T11:56:08 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentTab -->
+        <test-method is-config="true" signature="closeallTab()[pri:0, instance:pkg1.TestNgTestClass@63355449]" started-at="2023-02-07T11:56:08 IST" name="closeallTab" finished-at="2023-02-07T11:56:08 IST" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeallTab -->
+      </class> <!-- pkg1.TestNgTestClass -->
+      <class name="pkg1.LoginPageTestClass">
+        <test-method is-config="true" signature="OpenBrowser(java.lang.String)[pri:0, instance:pkg1.LoginPageTestClass@57c758ac]" started-at="2023-02-07T11:55:16 IST" name="OpenBrowser" finished-at="2023-02-07T11:55:21 IST" duration-ms="4514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="openCreateNewAccount()[pri:0, instance:pkg1.LoginPageTestClass@57c758ac]" started-at="2023-02-07T11:55:22 IST" name="openCreateNewAccount" finished-at="2023-02-07T11:55:24 IST" duration-ms="2342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openCreateNewAccount -->
+        <test-method signature="test1()[pri:0, instance:pkg1.LoginPageTestClass@57c758ac]" started-at="2023-02-07T11:55:24 IST" name="test1" finished-at="2023-02-07T11:55:25 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:pkg1.LoginPageTestClass@57c758ac]" started-at="2023-02-07T11:55:25 IST" name="closeBrowser" finished-at="2023-02-07T11:55:25 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="aftercloseallTab()[pri:0, instance:pkg1.LoginPageTestClass@57c758ac]" started-at="2023-02-07T11:56:08 IST" name="aftercloseallTab" finished-at="2023-02-07T11:56:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftercloseallTab -->
+      </class> <!-- pkg1.LoginPageTestClass -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2023-02-07T11:56:08 IST" name="FirefoxTest" finished-at="2023-02-07T11:57:07 IST" duration-ms="58503">
+      <class name="pkg1.TestNgTestClass">
+        <test-method is-config="true" signature="OpenBrowser(java.lang.String)[pri:0, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:56:15 IST" name="OpenBrowser" finished-at="2023-02-07T11:56:20 IST" duration-ms="5455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="openSignUp()[pri:0, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:56:20 IST" name="openSignUp" finished-at="2023-02-07T11:56:24 IST" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSignUp -->
+        <test-method signature="signupPage()[pri:1, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:56:24 IST" name="signupPage" finished-at="2023-02-07T11:56:34 IST" duration-ms="10224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupPage -->
+        <test-method is-config="true" signature="closeCurrentTab()[pri:0, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:56:34 IST" name="closeCurrentTab" finished-at="2023-02-07T11:56:34 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentTab -->
+        <test-method is-config="true" signature="openSignUp()[pri:0, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:56:34 IST" name="openSignUp" finished-at="2023-02-07T11:56:35 IST" duration-ms="1124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSignUp -->
+        <test-method signature="privacyPolicy()[pri:2, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:56:35 IST" name="privacyPolicy" finished-at="2023-02-07T11:56:50 IST" duration-ms="15176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- privacyPolicy -->
+        <test-method is-config="true" signature="closeCurrentTab()[pri:0, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:56:50 IST" name="closeCurrentTab" finished-at="2023-02-07T11:56:51 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentTab -->
+        <test-method is-config="true" signature="openSignUp()[pri:0, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:56:51 IST" name="openSignUp" finished-at="2023-02-07T11:56:52 IST" duration-ms="1341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSignUp -->
+        <test-method signature="cookiesPolcy()[pri:3, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:56:52 IST" name="cookiesPolcy" finished-at="2023-02-07T11:57:05 IST" duration-ms="13247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesPolcy -->
+        <test-method is-config="true" signature="closeCurrentTab()[pri:0, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:57:05 IST" name="closeCurrentTab" finished-at="2023-02-07T11:57:05 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentTab -->
+        <test-method is-config="true" signature="closeallTab()[pri:0, instance:pkg1.TestNgTestClass@6973b51b]" started-at="2023-02-07T11:57:05 IST" name="closeallTab" finished-at="2023-02-07T11:57:07 IST" duration-ms="1744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeallTab -->
+      </class> <!-- pkg1.TestNgTestClass -->
+      <class name="pkg1.LoginPageTestClass">
+        <test-method is-config="true" signature="OpenBrowser(java.lang.String)[pri:0, instance:pkg1.LoginPageTestClass@1afd44cb]" started-at="2023-02-07T11:56:08 IST" name="OpenBrowser" finished-at="2023-02-07T11:56:15 IST" duration-ms="6248" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="openCreateNewAccount()[pri:0, instance:pkg1.LoginPageTestClass@1afd44cb]" started-at="2023-02-07T11:56:20 IST" name="openCreateNewAccount" finished-at="2023-02-07T11:56:23 IST" duration-ms="3335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openCreateNewAccount -->
+        <test-method signature="test1()[pri:0, instance:pkg1.LoginPageTestClass@1afd44cb]" started-at="2023-02-07T11:56:23 IST" name="test1" finished-at="2023-02-07T11:56:24 IST" duration-ms="638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:pkg1.LoginPageTestClass@1afd44cb]" started-at="2023-02-07T11:56:24 IST" name="closeBrowser" finished-at="2023-02-07T11:56:27 IST" duration-ms="2668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="aftercloseallTab()[pri:0, instance:pkg1.LoginPageTestClass@1afd44cb]" started-at="2023-02-07T11:57:05 IST" name="aftercloseallTab" finished-at="2023-02-07T11:57:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftercloseallTab -->
+      </class> <!-- pkg1.LoginPageTestClass -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
