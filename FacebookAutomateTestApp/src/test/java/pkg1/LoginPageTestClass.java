@@ -38,8 +38,7 @@ SoftAssert softAssert;
 @BeforeTest
 public void OpenBrowser(String browserName)
 {
-	System.out.println("Open Browser before excute the test method..");
-	System.out.println("Open Browser before excute the test method..");
+
 	System.out.println("Open Browser before excute the test method..");
 	if(browserName.equals("Chrome"))
 	{
